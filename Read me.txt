@@ -1,0 +1,16 @@
+% Matlab code guidance
+% Author: yoused mafi
+% data: 1/20/2022
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+In this study, we use Matlab 2014a software for analysis of quantum noise channel effect on teleportation protocol results.
+The Matlab codes file consist of two main .m files:
+
+1) Main.m:
+          The main code for calculating fidelity with two different noise and all density matrixes.
+
+2) Fidelity_average.m:
+	  The plotting code for the average fidelity.
+
+The description of all code parts is written in Matlab files for each line.
